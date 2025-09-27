@@ -3,7 +3,7 @@
 
 # VS Code Setup for C Programming
 
-This repository includes VS Code configuration files to help you build and run C programs seamlessly on a Windows environment.
+ VS Code configuration files to help you build and run C programs seamlessly on a Windows environment with F5.
 
 ## Configuration Files Overview
 
