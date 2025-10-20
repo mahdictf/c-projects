@@ -4,7 +4,7 @@
 #include <math.h>
 
 /*
-Aufgabe 4-10:
+Aufgabe 4-11:
 Datûm: 20.10.2025
 Erstellt von: [Mahdi ]
 
