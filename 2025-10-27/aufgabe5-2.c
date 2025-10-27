@@ -21,6 +21,9 @@ int main(void){
     // Eingabeaufforderung
     printf("Bitte geben Sie Ihr Alter ein: ");
     scanf("%d", &alter);
+
+
+    
     if (alter < 0) {
         printf("Fehler: Das Alter kann nicht negativ sein.\n");
     } else if (alter < 18) {
