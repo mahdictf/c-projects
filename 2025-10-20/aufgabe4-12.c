@@ -27,7 +27,7 @@ printf("Bitte geben Sie den Abwurfwinkel (in Grad) ein: ");
 scanf("%lf", &alpha);
 
 
-
+//berechnung der flugweite
 flugweite = (v0 * v0 * sin(2 * alpha * (pi / 180))) / 9.81;
 
 //ausgabe der flugweite
