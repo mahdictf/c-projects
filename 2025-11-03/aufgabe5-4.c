@@ -6,3 +6,15 @@ Aufgabe 5-4: Erstellen Sie ein Programm, welches zwei franken und Rappen Beträg
 */
 
 
+#include <stdio.h>
+
+
+int main(){
+
+    //Deklaration der Variablen
+    
+
+
+
+
+}

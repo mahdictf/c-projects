@@ -47,6 +47,9 @@ int main(void){
     }
 
 
+    //------------------------------------------------------------
+
+
     /*
 
     //bestimmung und ausgabe der grössten zahl
