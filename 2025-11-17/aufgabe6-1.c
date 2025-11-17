@@ -15,9 +15,10 @@ int main(){
 
     // Deklaration 
     double zahl, wurzel;
-    // Eingabe
 
     while (1) {
+
+        
         printf("Wurtzelberechnung\n");
         printf("=====================================\n");
     
