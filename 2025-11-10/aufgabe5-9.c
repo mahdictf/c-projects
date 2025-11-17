@@ -9,8 +9,9 @@ Beschreibung: realisieren Sie das Abgebildete Menu, welches be der Eingabe einer
 #include <stdio.h>
 
 int main() {
+    // D = Deklaration der Variablen
     int wahl;
-
+    
     printf("Menu:\n");
     printf("1. Option 1\n");
     printf("2. Option 2\n");
@@ -22,7 +23,7 @@ int main() {
     switch (wahl) {
         case 1:
             printf("Sie haben Option 1 gewählt.\n");
-            break;
+            break; // Ende Case 1
         case 2:
             printf("Sie haben Option 2 gewählt.\n");
             break;
@@ -32,7 +33,7 @@ int main() {
         case 4:
             printf("Beenden des Programms.\n");
             break;
-        default:
+        default: // Sonst (ungültige Eingabe)
             printf("Ungültige Wahl. Bitte wählen Sie eine Zahl zwischen 1 und 4.\n");
             break;
     }
