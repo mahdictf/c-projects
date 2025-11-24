@@ -1,7 +1,7 @@
 /*
 Autor: mahdi rahimi
 Datum: 23.11.2025
-Aufgabe 5-4: Erstellen Sie die untenstehende Tabelle, welche temperaturen von  -20 bis  50 in celsius und in Fahrenheit in 5 Grad-Schritten gegenüberstellt.
+Aufgabe 6-4: Erstellen Sie die untenstehende Tabelle, welche temperaturen von  -20 bis  50 in celsius und in Fahrenheit in 5 Grad-Schritten gegenüberstellt.
 
 
 
