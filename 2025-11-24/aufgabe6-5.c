@@ -1,7 +1,8 @@
 /*
 Autor: Mahdi 
 Datum: 24.11.2025
-Aufgabe 6-5: Sie haben als Abteilunsleiter einer jMilchabfüllifirm den Auftrag erhalten, eine neuartige Verpackung fpr 100 Milliter Mich zu entwickeln. die neu verpakcung sool die form einers kegels erhalten
+Aufgabe 6-5: Sie haben als Abteilunsleiter einer jMilchabfüllifirm den Auftrag erhalten, eine neuartige Verpackung fpr 100 Milliter Mich zu entwickeln. 
+die neu verpakcung sool die form einers kegels erhalten
 
 
 Ziel: Sie können eine Korrekte while-Schleife erstellen.
