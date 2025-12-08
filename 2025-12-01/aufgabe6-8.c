@@ -45,10 +45,4 @@ int main(){
     printf("Die Summe der eingegebenen Zahlen ist: %.2f\n", Summe);
     return 0;
 
-    
-
-
-
-
-
 }
