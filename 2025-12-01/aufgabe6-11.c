@@ -31,7 +31,7 @@ int main(){
     summe = 0;
 
       // Verarbeitung
-
+        
     while (anzahlGaeste > 0){
 
         summe = summe + anzahlGaeste;
