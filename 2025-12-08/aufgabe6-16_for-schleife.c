@@ -22,13 +22,53 @@ int main(){
          
         {
         case 10:
-            printf("Zehn\n");
+            printf("Ten\n");
+            sleep(1); // Pause von 1 Sekunde
             break;
 
         
         case 9:
-         
+            printf("Nine\n");
+            sleep(1); // Pause von 1 Sekunde
 
+            break;
+
+        case 8:
+            printf("Eight\n");
+            sleep(1); // Pause von 1 Sekunde
+            break;
+
+        case 7:
+            printf("Seven\n");  
+            sleep(1); // Pause von 1 Sekunde
+            break;
+        case 6:
+            printf("Six\n");
+            sleep(1); // Pause von 1 Sekunde    
+            break;
+        case 5:
+            printf("Five\n");
+            sleep(1); // Pause von 1 Sekunde
+            break;
+        case 4:
+            printf("Four\n");
+            sleep(1); // Pause von 1 Sekunde
+            break;
+        case 3:
+            printf("Three\n");
+            sleep(1); // Pause von 1 Sekunde
+            break;
+        case 2:
+            printf("Two\n");
+            sleep(1); // Pause von 1 Sekunde
+            break;  
+        case 1:
+            printf("One\n");    
+            sleep(1); // Pause von 1 Sekunde    
+            break;
+        case 0:
+            printf("Lift Off\n");  
+            sleep(1); // Pause von 1 Sekunde         
             break;
         
         default:
