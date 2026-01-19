@@ -57,7 +57,7 @@ int main(void){
     printf("zahlen[3] = %d\n", zahlen[3]);
     printf("zahlen[7] = %d\n", zahlen[7]);
 
-    printf("zahlen[-1] und zahlen[8] sind UNGUELTIG (undefiniertes Verhalten)\n");
+ printf("zahlen[-1] und zahlen[8] sind UNGUELTIG (undefiniertes Verhalten)\n");
 
 
   /* d) Groesste Zahl */
